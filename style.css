@@ -1,0 +1,35 @@
+body {
+  background: #12262c;
+  color: #dce4e5;
+  font-family: system-ui, sans-serif;
+  max-width: 40rem;
+  margin: 0 auto;
+  padding: 3rem 1.5rem;
+  line-height: 1.6;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin: 0 0 1rem;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  margin: 2rem 0 0.5rem;
+}
+
+.hint {
+  font-size: 0.85rem;
+  color: #8aa3aa;
+}
+
+.box {
+  margin-top: 2rem;
+  padding: 1.25rem;
+  border: 2px solid #f0c846;
+  border-radius: 0.4rem;
+  color: #f0c846;
+  font-size: 1.3rem;
+  font-variant-numeric: tabular-nums;
+}
