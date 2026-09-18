@@ -19,6 +19,17 @@ img {
   margin: 2rem 0 0.5rem;
 }
 
+.row {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+}
+
+.row img {
+  height: 200px;
+  width: auto;
+}
+
 .hint {
   font-size: 0.85rem;
   color: #8aa3aa;
